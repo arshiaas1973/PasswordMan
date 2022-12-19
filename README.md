@@ -1,4 +1,5 @@
 # PasswordMan
+  [![Gem Version](https://badge.fury.io/rb/passwordman.svg)](https://badge.fury.io/rb/passwordman)
   This is a password generator and analyser written in pure Ruby.
   There is also a gem package that you can use for your projects in Ruby.
   You can use this command to install it:
